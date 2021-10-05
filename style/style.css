@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border_box; */
+}
+ul li{
+    list-style-type: none;
+}
+/* encapçalament */
+ header {
+     background-color: lightcoral;
+     padding: 40px;
+     margin: 0 0 20px 0;
+ }
+ /*menú*/
+ nav{
+     background-color: mediumaquamarine;
+     padding: 40px;
+ }
+ /* cos */
+ main {
+     background-color: lightseagreen;
+ }
